@@ -4,13 +4,13 @@ Sunoikisis Europe, Summer Semester 2019/2020, University of Zagreb, Faculty of H
 
 *Summary.* Prepare a digital edition of Galen's Θεραπευτική μέθοδος 10, 12 in original Greek and Latin translation using the [CEX format](https://cite-architecture.github.io/citedx/CEX-spec-3.0.1/); publish the edition using the [Server-CITE-App](https://github.com/cite-architecture/Server-CITE-App). In the process, learn about structuring a citable digital edition, why is it important, whar approaches and formats are available to achieve this.
 
-## Goals
+# Goals
 
 1. Learn about citable digital editions, their relevance and their necessary structure
 2. Learn about XML and CEX
 3. Prepare a digital edition from raw text and uncorrected OCR to a citable text
 
-## Tasks
+# Tasks
 
 1. Clone our Github repository
 2. Learn how to commit and push your changes with Git
@@ -21,7 +21,12 @@ Sunoikisis Europe, Summer Semester 2019/2020, University of Zagreb, Faculty of H
 7. Publish CEX versions of the passage
 8. Add Croatian translation, also in CEX format
 
-## Materials
+# Documentation
+
+The [wiki](https://github.com/nevenjovanovic/sunoikisis2020-galenus/wiki)
+
+# Materials
+
 
 The source: Galen, Θεραπευτική μέθοδος, 10, 12
 
@@ -34,6 +39,7 @@ The source: Galen, Θεραπευτική μέθοδος, 10, 12
 # Procedure
 
 1. Clone this repository
+2. Study the [wiki](https://github.com/nevenjovanovic/sunoikisis2020-galenus/wiki)
 
 # License
 [CC-BY](https://github.com/nevenjovanovic/sunoikisis2020-galenus/blob/master/LICENSE.md)
